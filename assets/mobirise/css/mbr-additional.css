@@ -1760,6 +1760,50 @@ body {
 .cid-rBBg06PmOF .card-title {
   text-align: center;
 }
+.cid-rBNg8j8gSR {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rBNg8j8gSR .card-img {
+  background-color: #fff;
+}
+.cid-rBNg8j8gSR .card-box {
+  padding: 2rem;
+  background-color: #1088b1;
+}
+.cid-rBNg8j8gSR h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rBNg8j8gSR p {
+  text-align: left;
+}
+.cid-rBNg8j8gSR .mbr-text {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-rBNg8j8gSR .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rBNg8j8gSR .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rBNg8j8gSR .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rBNg8j8gSR .card-title {
+  text-align: center;
+}
 .cid-rBBnKOZUjg {
   padding-top: 30px;
   padding-bottom: 30px;
